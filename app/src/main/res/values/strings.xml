@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">Persistence codelab testing</string>
+    <string name="app_name">Persistence codelab testingggg</string>
     <string name="books_borrowed_by_user">Books borrowed by Mike:</string>
     <string name="refresh">Refresh</string>
     <string name="young_users">Young users:</string>
